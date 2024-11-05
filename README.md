@@ -1,6 +1,6 @@
-# Smart Predictive Analytics for Hospital Supply Chain and Resource Optimization
+# Coming Soon...
+## Smart Analytics for Hospital (Supply Chain and Resource Optimization)
 
-## Project Description
 This project focuses on optimizing hospital resources to dynamically balance emergency and routine care demands. Hospitals often face challenges in meeting unexpected surges in emergency patients while maintaining sufficient resources for scheduled, routine care. Utilizing patient inflow data (both scheduled and unscheduled visits), historical demand patterns, and seasonal data, this project aims to create an adaptable model that anticipates fluctuations in demand and adjusts resource allocation accordingly.
 
 ## Key Components
