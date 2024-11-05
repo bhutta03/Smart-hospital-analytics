@@ -28,13 +28,6 @@ This project focuses on optimizing hospital resources to dynamically balance eme
   - Develop interactive dashboards in Power BI for hospital administrators to view real-time data on patient inflow, staff workload, and resource levels.
   - Implement alerts for resource thresholds, helping staff proactively manage critical supply levels and labor allocation.
 
-## Suggested Datasets
-- **Patient Inflow Data:** Contains timestamps, patient type (emergency/routine), and department.
-- **Hospital Staffing Data:** Includes staff shifts, department assignments, workload, and skill levels.
-- **Medical Supply Chain Data:** Tracks inventory levels, usage rates, and order history.
-- **Seasonal Data and External Events:** Public health data for seasonal trends and flu outbreaks to understand external influences on patient flow.
-- **Cost Data:** Detailed cost information for resources and labor to enable cost-benefit analysis.
-
 ## Languages and Tools Used
 - **Programming Languages:** Python, R
 - **Data Visualization Tools:** Power BI, Tableau
@@ -45,11 +38,6 @@ This project focuses on optimizing hospital resources to dynamically balance eme
 ## Value Proposition
 This project offers hospitals a proactive approach to managing unpredictable patient flow, enhancing both patient care and resource efficiency. It provides insights into balancing emergency and routine care demands, supports staff well-being by managing workloads effectively, and reduces operational costs by closely aligning resources with patient demand. Through comprehensive analytics and visualization, the project aims to create a sustainable framework for better resource management in healthcare settings.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-- [Any libraries, frameworks, or contributors you want to acknowledge]
 
 ## Contact
-For inquiries or contributions, please contact [Your Name](mailto:your.email@example.com).
+For inquiries or contributions, please contact [Khubaib Ishtiaq](khubaibishtiaq882@gmail.com).
