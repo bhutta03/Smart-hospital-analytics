@@ -32,8 +32,8 @@ This project focuses on optimizing hospital resources to dynamically balance eme
 - **Programming Languages:** Python, R
 - **Data Visualization Tools:** Power BI, Tableau
 - **Database Management:** SQL
-- **Data Analysis Libraries:** Pandas, NumPy, Scikit-learn
-- **Other Tools:** Jupyter Notebook, Git for version control
+- **Data Analysis Libraries:** Pandas, NumPy, Scikit-learn,Statsmodels, Matplotlib, Seaborn, Mito
+- **Other Tools:** Advanced Excel,Jupyter Notebook, Git for version control
 
 ## Value Proposition
 This project offers hospitals a proactive approach to managing unpredictable patient flow, enhancing both patient care and resource efficiency. It provides insights into balancing emergency and routine care demands, supports staff well-being by managing workloads effectively, and reduces operational costs by closely aligning resources with patient demand. Through comprehensive analytics and visualization, the project aims to create a sustainable framework for better resource management in healthcare settings.
