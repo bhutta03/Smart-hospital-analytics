@@ -28,7 +28,7 @@ This project focuses on optimizing hospital resources to dynamically balance eme
   - Develop interactive dashboards in Power BI for hospital administrators to view real-time data on patient inflow, staff workload, and resource levels.
   - Implement alerts for resource thresholds, helping staff proactively manage critical supply levels and labor allocation.
 
-</p> ![Smart Hospital Dashboard](smart hospitala ana;yics 1.png)
+<img src="smart hospitala ana;yics 1.png" alt="Smart Hospital Dashboard" width="300"/>
 
 ## Languages and Tools Used
 - **Programming Languages:** Python, R
